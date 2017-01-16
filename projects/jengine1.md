@@ -23,8 +23,7 @@ Examples:
 
 Character Creation: <div width="200px"></div>        Toaster Shmup:
 
-<img class="ui image medium" src="/images/JEngineExample1.png">
-<img class="ui image medium" src="/images/JEngineExample2.png">
+<img class="ui image medium" src="/images/JEngineExample1.png"> <img class="ui image medium" src="/images/JEngineExample2.png">
 
 Arena Zombie Shoter
 
