@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/screenyicon.bmp
+image: images/JEngineIcon.png
 title: JEngine 1.0.0
 permalink: projects/JEngine1
 date: 2014
