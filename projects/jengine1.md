@@ -31,4 +31,4 @@ Toaster Shmup:
 
 Arena Zombie Shoter
 
-<img class="ui image" src="/images/JEngineSample3.png">
+<img class="ui image small" src="/images/JEngineSample3.png">
