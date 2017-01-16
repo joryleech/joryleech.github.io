@@ -12,7 +12,7 @@ summary: Developed a utility/replacement for the Windows screenshot feature.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Screeny1.jpg">
+  <img class="ui image" src="../images/Screeny1.png">
   <img class="ui image" src="../images/screeny2.png">
 </div>
 
