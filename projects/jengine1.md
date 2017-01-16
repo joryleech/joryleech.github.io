@@ -25,4 +25,4 @@ Examples:
 
 <img class="ui image" src="{{ site.baseurl }}/images/JEngineExample2.png">
 
-<img class="ui image" src="{{ site.baseurl }}/images/JEngineExample3.png">
+<img class="ui image" src="{{ site.baseurl }}/images/JEngineSample3.png">
