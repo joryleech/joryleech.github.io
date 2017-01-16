@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/screeny.jpg
+image: images/screenyicon.jpg
 title: Screeny
 permalink: projects/Screeny
 date: 2014
