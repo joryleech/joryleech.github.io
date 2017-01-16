@@ -20,7 +20,8 @@ For the original beta of this project I lead a small team of three people, and a
 For the final version of this project I was the Sole developer. The final version of this project was written from the ground up, keeping only learned experience and the name from the beta. 
 
 Examples:
-Character Creation:        Toaster Shmup:
+
+Character Creation: <div width="200px"></div>        Toaster Shmup:
 
 <img class="ui image medium" src="/images/JEngineExample1.png">
 <img class="ui image medium" src="/images/JEngineExample2.png">
