@@ -21,7 +21,7 @@ For the final version of this project I was the Sole developer. The final versio
 
 Examples:
 
-Character Creation:   Toaster Shmup:
+Character Creation: 
 
 <img class="ui image medium" src="/images/JEngineExample1.png">
 
