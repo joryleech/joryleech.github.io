@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jory Leech",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://joryleech.github.io/template/images/joryleech.jpg",
+    "email": "jleech@hawaii.edu",
+    "phone": "",
+    "website": "https://joryleech.github.io",
+    "summary": "I am a student of Computer Science, an avid learner, and an excitable programmer. I attend the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,33 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "joryleech",
+        "url": "http://github.com/joryleech"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "joryleech",
+        "url": "https://www.linkedin.com/in/jory-leech-3b3123133"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "C++",
+        "C"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Graphical Engines",
       "keywords": [
+        "SDL",
+        "Allegro"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Rasperry Pi",
       "keywords": [
       ]
     }
@@ -63,9 +55,9 @@
       "keywords": [
         "C",
         "C++",
+        "Basic",
         "Java",
         "Javascript",
-        "Assembly",
         "Common Lisp"
       ]
     },
@@ -73,11 +65,15 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Fedora",
+        "Windows",
+        "Unix",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "VI",
+        "Eclipse",
+        "Codeblocks"
       ]
     }
   ],
@@ -86,9 +82,9 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.7",
       "courses": [
       ]
     }
