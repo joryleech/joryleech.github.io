@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: Computers, Programming, and How It Changed My Life.
 date: 2016-02-06
 labels:
   - Engineering
