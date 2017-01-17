@@ -10,9 +10,10 @@ labels:
 ---
 
 
-<img class="ui medium image" style="float:right;" src="../images/javaScript.jpg">
+
 ## Preface
 
+<img class="ui medium image" style="float:right;" src="../images/javaScript.jpg">
 While this isn't the first time i have used Javascript, this is the first time I've used it in a traditional programming manner. I have a personal bias against interpretted languages from a speed perspective but I do concede that they often make great beginner languages (Java,Python,Javascript). It must also be stated that i do believe Javascript should generally be avoided for many reasons including: security, transparency, speed, ability (and frequency) to be disabled.
 
 
