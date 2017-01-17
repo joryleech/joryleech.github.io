@@ -2,9 +2,11 @@
 layout: essay
 type: essay
 title: Computers, Programming, and How It Changed My Life.
-date: 2016-02-06
+date: 2016-02-16
 labels:
-  - Engineering
+  - Software Engineering
+  - Personal
+  - Programming
 ---
 
 <blockquote>
