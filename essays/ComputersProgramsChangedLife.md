@@ -22,7 +22,7 @@ By the end of seventh grade I had already begun learning C++ and was making simp
 
 ## Development
 
-
+<img class="ui medium image" style="float:right;" src="../images/jorybot.png">
 As time continued I continued growing my skill set and developing new things. Through highschool i participated in Robotics, developing a couple of robots (including one named after me). My true passion, however, was graphical programming like games. I spent much of highschool developing an RPG engine which slowly became a graphic engine as a senior project. While development on this ended, work on other graphical engines continued to even today. 
 
 ## The Future?
