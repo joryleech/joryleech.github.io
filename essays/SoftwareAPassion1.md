@@ -5,9 +5,7 @@ title: Programming: A Passion
 date: 2016-02-16
 labels:
   - Software Engineering
-  - Personal
-  - Programming
----
+  - Personal---
 
 
 “The two most important days in your life are the day you are born and the day you find out why.” </blockquote><footer> -- Nelson Mandela </footer>
