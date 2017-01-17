@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: First Impressions: Javascript
+title: First Impressions - Javascript
 date: 2016-02-16
 labels:
   - Software Engineering
