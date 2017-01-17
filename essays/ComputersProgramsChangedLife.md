@@ -27,4 +27,8 @@ As time continued I continued growing my skill set and developing new things. Th
 
 ## The Future?
 
+SDL, AWT, Java, Lisp, SQL, JPages, OpenGL. All of these are things I didn't know about during that first year of programming, but now I holde each of them close to my heart. Everyday i find myself developing more and more, and learning more interesting facts. I don't know where the future will take me, but i hope with all of my heart that I keep learning new things every day.
+
+
+
 
