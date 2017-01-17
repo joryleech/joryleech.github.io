@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software: A Passion
+title: Programming: A Passion
 date: 2016-02-16
 labels:
   - Software Engineering
