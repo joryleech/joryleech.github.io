@@ -21,19 +21,16 @@ I began my foray into Javascript by brushing up on the basics using [FreeCodeCam
 
 Javascript is incredibly versatile to a fault. The most notable feature is the ability to change what data type each variable corresponds to. I, as well as many others, would consider this to be neat but ultimately detrimental, thats why I intend to keep data types static for the rest of my time using Javascript. This translates over to arrays which strike me closer to JSON or some data storage language rather than an actual programming language. While the lack of restriction can be a benefit, it personally makes it hard to tell the function of an array just by looking at it. 
 
-I wasn't fond of the way object oriented programming was implemented into javascript at first but the more i played with it the more it felt reminiscent of C. I don't want to say it is limited, as structs are in C, but rather the array like structure has a similiar feel. 
+I wasn't fond of the way object oriented programming was implemented into javascript at first but the more i played with it the more it felt reminiscent of C. I don't want to say it is limited, as structs are in C, but rather the array like structure has a similiar feel. One thing I found dissapointing was a distinct lack of inheritance. I also question the usefulness of private variables in a setting like this. 
 
 ## Euler Problems
+
+In order to truly understand the usefulness of Javascript I took on the first couple of Euler problems. 
+
+### Euler Problem 1
 
 
 
 <img class="ui medium image" style="float:right;" src="../images/Jorybot.png">
-As time continued I continued growing my skill set and developing new things. Through highschool i participated in Robotics, developing a couple of robots (including one named after me). My true passion, however, was graphical programming like games. I spent much of highschool developing an RPG engine which slowly became a graphic engine as a senior project. While development on this ended, work on other graphical engines continued to even today. 
-
-## The Future?
-
-SDL, AWT, Java, Lisp, SQL, JPages, OpenGL. All of these are things I didn't know about during that first year of programming, but now I holde each of them close to my heart. Everyday i find myself developing more and more, and learning more interesting facts. I don't know where the future will take me, but i hope with all of my heart that I keep learning new things every day.
-
-
 
 
