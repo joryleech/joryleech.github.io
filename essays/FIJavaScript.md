@@ -29,8 +29,16 @@ In order to truly understand the usefulness of Javascript I took on the first co
 
 ### Euler Problem 1
 
+ This first Euler problem is adding all of the numbers between 0 and 1000 that are divisible by 3 or 5. This was particularly easy to implement in Javascript. The syntax was very similar to c, set asside the function and and distince lack of a main function. While it wasn't strictly necessary I decided to use the === operator. 
+ 
+ In total this took only 1 Minute and 26 seconds to perform and was correct on the first attempt. My solution can be found [Here on JSFiddle](https://jsfiddle.net/jleech/7akb1hue/)
 
+### Euler Problem 2
 
-<img class="ui medium image" style="float:right;" src="../images/Jorybot.png">
+The second Euler problem is to add all of the Fibonacci numbers up that are even. This problem showed one of Javascripts biggest weaknesses. My initial solution was to try and perform the problem recursibely, this quickly showed to be too slow and require to much memory. This solution was created in 4 minutes and proved to be correct using a faster programming language.
+
+The second attempt of this problem used an interative step which could be almost indistinguishable from any other language. This worked speedily, and the solution was found in 2 minutes and 10 seconds.
+
+The final solution to this problem can be found [Here on JSFiddle](https://jsfiddle.net/jleech/ytbwu25L/)
 
 
