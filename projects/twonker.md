@@ -15,7 +15,7 @@ summary: A recreation of Twitter, using the Derby database and JPages.
 
 <img class="ui large rounded image center floated" src="../images/twonker1.png">
 
-Twonker is a web application that I created in ICS 321, Fall 2016. The project helped me learn how to design web pages with a Data base structured back end. 
+Twonker is a web application that I created in ICS 321, Fall 2016. The project helped me learn how to design web pages with a database structured back end. 
 
 Twonker is implemented using JPages and Derby, a SQL database. The project took a week of work, and includes tweeting, hashtags search and creation, account creation, and logins.
 
