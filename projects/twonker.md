@@ -10,7 +10,7 @@ labels:
   - Derby
   - SQL
   - JPages
-summary: A recreation of Twitter, using the Derby database and JPages
+summary: A recreation of Twitter, using the Derby database and JPages.
 ---
 
 <img class="ui large rounded image center floated" src="../images/twonker1.png">
