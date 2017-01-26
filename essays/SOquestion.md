@@ -41,6 +41,7 @@ At first this question seems innocent. I'd make the reasonable assumptions that 
   
 ### Second Question
 
+<a href="http://stackoverflow.com/questions/41679487/playgrounds-crashing-with-unknown-error-when-using-xml-parsing-swift-libraries"><img class="ui center image" style="" src="../images/SOquestion2.png"></a>
  **The Good**
   The title for this question is amazingly written, it describes the error and three of the four seperate building blocks that make up the function. The title isn't formed like a question which seems counter intutitive but actually serves a distinct function. First, questions add excessive words or a sense of grovelling. This is both offputting and inefficient. Secondly statements allow for other users who will have similiar problems to look up the problem. 
   
