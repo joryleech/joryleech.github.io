@@ -41,6 +41,11 @@ At first this question seems innocent. I'd make the reasonable assumptions that 
   
  ### Second Question
  
- **The Good**
  
+ **The Good**
+  The title for this question is amazingly written, it describes the error and three of the four seperate building blocks that make up the function. The title isn't formed like a question which seems counter intutitive but actually serves a distinct function. First, questions add excessive words or a sense of grovelling. This is both offputting and inefficient. Secondly statements allow for other users who will have similiar problems to look up the problem. 
+  
+   The conciseness continues with the first paragraph of text. The author gives a small run down of the project in its entirety without being wordy. He describes the processes he is trying to use and then immedietly follows it up with the error. While the author realizes that he does not understand that error code, specifically because it is an "unknown error" he does not discount the fact that someone else might be more familiar with that particular problem. To compound on this further, he released his code on a seperate Github page. This allows for the question page to not be bogged down with snippits of code, while allowing access to material that might be necessary. 
+   
+   The second to last section describes the users attempts made so far to remedy the issue. While this seems similiar to describing possible actions there is a distinct difference. Firstly this shows that several attempts have been made by the author before going to other people for help. While this isn't that important it does build a trust between the problem haver and the solvers. Secondly and more important it shows several solutions that the author has not been succesful with, that other might have suggested.
  **The Bad**
