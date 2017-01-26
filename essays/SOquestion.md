@@ -39,9 +39,8 @@ At first this question seems innocent. I'd make the reasonable assumptions that 
 
   Desipite being a question I would throw into the "Bad" category, it is important to also understand what this question has done right. This question is direct with the way it asks a question. While the question falls into the cutesy category, it does a good job of focussing it's intent. It doesn't shout the question out into the void, but rather the problem is stated in an easy way for the question to be answered.
   
- ### Second Question
- 
- 
+### Second Question
+
  **The Good**
   The title for this question is amazingly written, it describes the error and three of the four seperate building blocks that make up the function. The title isn't formed like a question which seems counter intutitive but actually serves a distinct function. First, questions add excessive words or a sense of grovelling. This is both offputting and inefficient. Secondly statements allow for other users who will have similiar problems to look up the problem. 
   
