@@ -10,11 +10,13 @@ labels:
 ---
 
 
-##Preface
+## Preface
 
 Communication is the basis for human society and somewhere along the lines that trickled down to software engineering as well. While code can be interpreted by looking at it or by careful trial and error most people find themselves at the person oriented end of a book or video. The problem with both of these mediums is that they are finite. Furthermore, Employers don’t want you to program something that’s already been done and professors don’t want you to be working on an assignment which can easily be searched for. 
 
 StackOverflow is where many people end up when they feel they have exhausted their options (for some that point come much quicker than others). A quick glance will show a wide variety of quality in answers and questions. Many people come here searching for others to “fix their code”.  A fair amount of these people receive this, in the form of wordless answers. This forms a reliance, especially on newer programmers. Which leads me to my hypothesis: Better questions, lead to better answers, lead to less reliant programmers. 
+
+## Experiment
 
 For the sake of this experiment I will be examining a few questions on StackOverflow. Their content will be judged based on a set of guidelines created by Eric Raymond, in the article “How to ask questions the smart way.” 
 
