@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Configuration Managment Git
+title: Configuration Managment, A long journey.
 date: 2017-01-30
 labels:
-  - GitHub
-  - Configuration Managment
-  - Team Skills
+  - Software Engineering
+  - Personal
+  - Programming
 ---
 
 ## The Evolution
