@@ -14,11 +14,17 @@ labels:
 
 Every programmer knows the struggle of deciding between tabs and spaces despite it not mattering for most languages at a compiler level. However it seems like almost everyones opinions on the matter are fairly strong. Is it worth it? Furthermore is it a sympotm of a larger problem? Of course it is!
 
-The tabs versus spaces argument is a small part of the larger scope of Coding Standards. Coding Standards are a system put in place to keep code standardized to a single format. It's important to note that these are put in place by developers not by the language themselves. Using spaces to denote blocks in Python is a quirk of the language, using spaces in C is an example of Coding Standards. It is also important to note that Coding Standards try to standardize a near infinite combination of coding preferences, not just white space. For an example see <a href="https://github.com/airbnb/javascript">AirBNB coding style</href>
+The tabs versus spaces argument is a small part of the larger scope of Coding Standards. Coding Standards are a system put in place to keep code standardized to a single format. It's important to note that these are put in place by developers not by the language themselves. Using spaces to denote blocks in Python is a quirk of the language, using spaces in C is an example of Coding Standards. It is also important to note that Coding Standards try to standardize a near infinite combination of coding preferences, not just white space. For an example see <a href="https://github.com/airbnb/javascript">AirBNB coding style</a>
 
 To truly understand the importance of Coding Standards, we will look at a few examples, starting with a world where the tabs versus space debate doesn't exist.
 
 ### Example 1: 
+
+Imagine a world where you can show someone your code and the person who looks at it isn't immediatly brought aback by one or more of your coding preferences. Whether you use tabs or spaces or never add a new line unless you use a different function, imagine no one cared.
+
+For a personal project this could almost work, most novices code this way before they know someone else who programs and begin to have this debate. Imagine that style of formatting being randomly distrubuted to every single person you have ever looked at the code of and one last time lets assume that you don't judge them. The time alone it would take to read and try to comprehend the code that was put in front you would double, maybe tripple. The ammount of time this could steal in a company could cost millions. Productivity drops, there are less products to push, and honestly the bulk of the workload moves from trying to work on the problem to trying to understand what was already done to work on the issue. 
+
+
 <a href="http://stackoverflow.com/questions/41882147/a-way-of-detecting-incognito-browsing"><img class="ui center image" style="" src="../images/SOquestion1.png"></a>
 
 **The Bad**
