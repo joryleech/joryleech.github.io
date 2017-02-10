@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Why coding standards are important, and your preferences are bad.
-date: 2016-02-16
+date: 2017-02-09
 labels:
   - Standards
   - Organization
