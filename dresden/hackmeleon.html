@@ -43,7 +43,27 @@
       The Illuminati operates various departments and programs for the benefit of all people, in all places, from all generations. By protecting the interests of humanity as a whole, our organization has ensured the ongoing dominance of the human species over every other creature and predator on this planet.
     </div>
   </div>
-  <div class="ui tab segment inverted bottom attached " data-tab="Target" style="min-height:300px; margin-bottom:-10px;"> Redacted</div>
+  <div class="ui tab segment inverted bottom attached " data-tab="Target" style="min-height:300px; margin-bottom:-10px;" >
+
+    <div class="header ui large">Current Target</div>
+    <div class="header ui">Clark Hayden - Conspiracy Theorist, Blogger, Uncertified Schitsophrenic</div>
+    <div class="ui green progress" data-value="10" data-total="100" id="progress1">
+      <div class="bar">
+        <div class="progress left floated"></div>
+      </div>
+      <div class="label small" style="color:white;">Threat Level</div>
+    </div>
+    <div class="ui striped progress" data-value="10" data-total="100" id="progress2">
+      <div class="bar">
+        <div class="progress"></div>
+      </div>
+      <div class="label small" style="color:white;">Progress</div>
+    </div>
+
+    <div class="header ui large">Previous Targets</div>
+    <div class="ui text">Redacted</div>
+  </div>
+
   <div class="ui tab segment inverted bottom attached " data-tab="Join" style="min-height:300px">
     <div class="ui active huge text loader">Finding You</div>
   </div>
@@ -55,10 +75,22 @@
       .dropdown()
   ;
 </script>
+
 <script>
-  $('.menu .item') 
+  $('.menu .item')
       .tab()
   ;
+</script>
+
+<script>
+  $('#progress1').progress({
+    percent: 7
+  });
+</script>
+<script>
+  $('#progress2').progress({
+    percent: 67
+  });
 </script>
 </body>
 </html>
