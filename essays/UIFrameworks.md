@@ -30,8 +30,11 @@ This isn't to say that a website that doens't use a framework won't be pretty, b
 
 You may be asking yourself, if ease of use and prettiness is what i want why not use a website builder with templates? It's a fair strategy. Those who require minimal control can often find these helpful, but that lack of control steals something from the developer. Sure you could still change colors of things or perhaps have control of how many boxes you have appear, but working with framework allows the same freedom of working with the language with a little something extra peppered on top. It's like finding the perfect level programming language. Most people don't desire to create large scale games out of Machine Code or on top of another executable (although there exist outliers on both sides).
 
+### The Cons of Frameworks
 
+Psh you're to good for a framework. You've been writing css for years without any problem, you could bang out anything in those frameworks and sure it might take you a little longer but it would sure as heck take a lot longer for you to learn it. It's natural, why learn a new language when english is already what you speak. This isn't my personal view point (as an aspiring software engineer) and i imagine a lot of linguists would be on my side, but I can see the merit to it. Reinventing the wheel is a lot of work (but the first wheels were probably wooden so I suppose we've done it a lot). 
 
+My first reaction with learning Semantic UI was that there was a lot to memorize and almost none of it worked without the other stuff. There didn't seem to be a good place to jump in to it, and it almost looks worse if you only put in the time to learn half of it. So i took a moment to stop, and think about the first time I actually started writing CSS and HTML. I deeply wanted to tell myself that it was the same but it wasn't. There are good tags to learn first, HTML actually lends itself to being learnt in the fact that tags seem to come sequentially in the page, while Semantic UI does not have this benefit. In the long run this won't be a con to anyone who deeply wants to use a framework, but at some point everyone has to learn something. 
 
 ## Conclusion
 
