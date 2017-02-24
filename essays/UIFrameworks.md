@@ -38,4 +38,4 @@ My first reaction with learning Semantic UI was that there was a lot to memorize
 
 ## Conclusion
 
-Why does this all matter you might ask yourself? The life of a programmer is to make tools that make life easier, so why not use a little of your own knowledge to make your own and others life easier. At the moment there are only a few ways that these Coding Standards can be implemented and they don't tend to be user friendly. It has been an uphill battle trying to implement nicely organized code, stemming from the mess of packed code in the seventies. But for our sake and the sake of everyone else, it will make our lives better. 
+So should you use a framework? Almost certainly yes, if you have a desing in mind and want to throw it together as fast as possible. This however doesn't apply to people who want to understand how things work on the back-end. Personally I enjoy learning these sorts of things so making a framework would be right up my alley, but having the consistency, even if you have to make it yourself is something that is just too valuable.
