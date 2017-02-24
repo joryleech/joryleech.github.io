@@ -24,16 +24,14 @@ Several peices of my semantic UI work can be found on my github [here.](http://g
   
 ### The Pros of Frameworks.
 
-Imagine a world where you can show someone your code and the person who looks at it isn't immediatly brought aback by one or more of your coding preferences. Whether you use tabs or spaces or never add a new line unless you use a different function, imagine no one cared.
+They look amazing! It's a matter of opinion but near any attempt with enough gall to sit down and work with a frame work can pump out a moderatly pretty website in less than an hour. They say looks aren't everything and that's true but websites are a mostly visual medium. The ability to express what you want to in a pretty way has been an art that people have worked on since the beginning of humanity and it almost feels like cheating to write out a few words in the class list and be bestowed with such a gift.
 
-For a personal project this could almost work, most novices code this way before they know someone else who programs and begin to have this debate. Imagine that style of formatting being randomly distrubuted to every single person you have ever looked at the code of and one last time lets assume that you don't judge them. The time alone it would take to read and try to comprehend the code that was put in front you would double, maybe tripple. The ammount of time this could steal in a company could cost millions. Productivity drops, there are less products to push, and honestly the bulk of the workload moves from trying to work on the problem to trying to understand what was already done to work on the issue. 
+This isn't to say that a website that doens't use a framework won't be pretty, but it helps. Furthermore, having a built in consistency across all of your work has it's own magical effect. In the User Experience Theory consistency is show to weild positive visceral respones from users. This ultimatly boils down to the human desire to feel in control and to maintain understanding of the current situation. 
+
+You may be asking yourself, if ease of use and prettiness is what i want why not use a website builder with templates? It's a fair strategy. Those who require minimal control can often find these helpful, but that lack of control steals something from the developer. Sure you could still change colors of things or perhaps have control of how many boxes you have appear, but working with framework allows the same freedom of working with the language with a little something extra peppered on top. It's like finding the perfect level programming language. Most people don't desire to create large scale games out of Machine Code or on top of another executable (although there exist outliers on both sides).
 
 
-### Example 2 : Perfect People (Robots)
-  
-Now I would like you too imagine a world where everyone has the same coding standards, no matter what they are everyones code for a single problem would look identicle. Of course there isn't a good solution to all problems using the same coding standards but lets pretend. Imagine the ammount of productivity that could be accomplished if everyone intrinsically could at least understand the formaatting of a code before reading it. 
 
-Of course people could never actually accomplish this because people are difficult and there is no black and white way to say which format is better. However, given the format of a problem and a limited set of people like what can be found in a company this goal becomes very easy to accomplish. 
 
 ## Conclusion
 
