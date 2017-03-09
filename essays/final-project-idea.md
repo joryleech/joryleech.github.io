@@ -8,6 +8,7 @@ labels:
   - Meteor
 ---
 
+### Authors: JingJie Wu, Jory Leech
 ## Overview
 A website, intended for mobile, that allows users to pay for food using their UH id on campus. Resturants who partake in this process should be able to give targetted advertisement and coupons, in exchange the resturants gain analytics about what people are buying and what kind of people are buying the product.
 
@@ -45,3 +46,7 @@ An open database or interpreted representation of the data customized for each o
 * A resturant wants to encourge new users to eat at their resturant, so they distribute a coupon to all students who haven't eaten their in the last year. This could possibly encourage more students to eat at a resturant.
 * User buys a lot of food and wants to start watching their weight, rather than holding on to recipts they can use the app to determine what they have eaten from the transactions.
 * A new resturant shows up on campus, all users are notified of its existence because of a coupon or advertising. 
+
+## Beyond the Basics
+
+* A comment or review interface for the resturants.
