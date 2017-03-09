@@ -11,16 +11,14 @@ labels:
 
 ## Preface
 
-Anyone who has used a framework to build a website knows exactly how easy it is, anyone who has ever used two frameworks to build two seperate websites knows how difficult it is. Frameworks are essential in our web 2.0 world.
-## First Impressions
+Anyone who has used a framework to build a website knows exactly how easy it is, anyone who has ever used two frameworks to build two seperate websites knows how difficult it is. Frameworks are essential in our web 2.0 world as static websites are often not able to function in the way we want them to. However, much like program languages these frameworks can't be perfect. Certain features have to be left in the dust due to development time, or conflict with other requirements of the program. This is okay but when someone works with more than one framework they can often become dissatisfied with the lacking of features from from either one.
 
-I began my foray into Javascript by brushing up on the basics using [FreeCodeCamp](https://www.freecodecamp.com/), a website that teaches Javascript in tiny little bite size lessons. After completing several hundred lessons, I feel as if my assessment of Javascript has come to a steady state. 
+Meteor was not my first framework, sadly, rather JPages was. To compound on this, I think I have a better understanding of Java than I do of javascript. Now it's important to note that the entire structure of meteor is far different from JPages. Because of this there are a few parts of meteor that i have yet to become aquainted with. 
 
-Javascript is incredibly versatile to a fault. The most notable feature is the ability to change what data type each variable corresponds to. I, as well as many others, would consider this to be neat but ultimately detrimental, thats why I intend to keep data types static for the rest of my time using Javascript. This translates over to arrays which strike me closer to JSON or some data storage language rather than an actual programming language. While the lack of restriction can be a benefit, it personally makes it hard to tell the function of an array just by looking at it. 
+##My First Problem
 
-I wasn't fond of the way object oriented programming was implemented into javascript at first but the more i played with it the more it felt reminiscent of C. I don't want to say it is limited, as structs are in C, but rather the array like structure has a similiar feel. One thing I found dissapointing was a distinct lack of inheritance. I also question the usefulness of private variables in a setting like this. 
+Coming out of a java based framework I had some expectations for the way meteor was going to work. I was quickly able to shatter these expectations but one thing never quite sat right with me. I had the hardest time trying to figure out how to fix errors. Meteor does its best to try and stack trace a little bit to the part of code that the problem originated in, but there are a few distinct problems with its approach. 
 
-One small feature I truly enjoyed, although I question its usability and speed, is the ability to use words or strings as variable names which are interchangable with array positions. This made it incredibly easy to find properties. This could also situationally be used to translate into certain programs almost as spoken, like contacts. It is a shame that largr datasets are probably not usable in Javascript.
 
 ## Euler Problems
 
