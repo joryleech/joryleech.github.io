@@ -18,22 +18,11 @@ When I first began learning Meteor I didn't quite understand it. There isn't a g
 ## Current Impressions / The Change
 
 I'm not sure where the realization of how to use meteor hit, and I'm not entirely sure it did hit all at once. There was a point where I was copying code and then a point where i was writing out applications like without a single reference and strangely there was no inbetween. Perhaps this is a compliment to meteor or perhaps a compliment to the learning system used. Either way I now feel confident enough to state my current, and probably to the death, thoughts on meteor. 
-## Why is it important?
 
-Configuration Managment is important for almost the exact reason people often believe they are not. Configuration Managment allows people to tell what is changed, what files exist, how they are organized, and how they can be modified. A beginner intrinsically believes that they can take care of this. If my experience holds any merit, even small teams believe that they can mangage things without these notes but it quickly becomes overwhelming.
+I'll start nice enough, since few can honestly believe this is going to end with love and rainbows. Meteor being perfectly manageable was a reoccuring theme throughout development with it. I recently was introduced to a few websites with pre-made packages in it that made my day. One of my earlier arguments against it was lack of support but after some more research I found myself to be completely wrong. 
 
-The human brain isn't particularly adept at figuring out the smallest changes. Anyone who has spent time looking for a semicolon can tell you that there are obvious glaring flaws with the way we scan things. This compounds with the fact that users aren't necessarilly able to identify changes other people have made and the writing is on the wall.
+## Wait... 
 
-Configuration Managment is a necessity. 
+As I sit here trying to think of more things to write to show how well meteor works, I keep hitting a wall. I keep wanting to give it small compliments but whenever I try, I realize that the compliments are misplaced. All of the benefits of Javascript are because of Javascript. Autoreload is nice, but i actually found it to be more inconvenient than manual compilation. The number of times I was working on a page and repeatedly saving only to go back to the console and find that compilation was backed up by 20 something changes was insane. 
 
-## How good is our solution?
-
-For the average user i would consider GitHub the go to for Configuration Management. Its uniformity allows a format that most people will have to pick up in their lives. GitHub is based around Git, which I personally thought was a lightweight version of GitHub before learning the truth. Its simple enough. It allows users to make changes on nearly any machine, on or offline. These changes can be uploaded, noted, and changes are shown.
-
-That being said the current methods for configuration manegment just barely work (not in the same way that apple products "Just Work"). They seem like an artifact from older days, their functions seem primitive and unintuitive. From a "Human Computer Interactions" standpoint they dont relate to anything physically and the UI's people have built to manage them often seem lacking. GitHubs own desktop client requires the user to use the website to fork a project, even if it is their own. A major reform seems necessary. 
-
-Furthermore, from the outside Git isn't very friendly seeming. I put off my own learning of it for a long time because I was afraid to fail at it. This all goes without even mentioning the troubles that can be caused by trying to merge a branch. 
-
-But all of those problems seem to be with humans. 
-
-Should the machine work by itself it would be perfect, but sadly that isn't a solution. Bad comments, iffy commits, weird branching is all caused by people not knowing how to behave correctly. 
+Furthermore anytime I want to include a script into my website I have to determine what kind of script it is. Is it a helper? Is it something else? This seems trivial and it is, but enough frameworks don't have this requirement allowing you to just write the function and call it in the page where needed. 
