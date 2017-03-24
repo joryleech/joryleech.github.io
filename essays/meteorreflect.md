@@ -31,3 +31,6 @@ Don't get me started on the speed. Anyone who has used meteor knows how ridiculo
 
 ## Final Verdict.
 Do I like meteor?
+Yeah, it's fine enough I suppose. While all my examples take it to the extreme, I honestly don't have a giant problem with it. It would never be my first choice but if a project requires it I wouldn't snub my nose to it. 
+
+Meteor: 5/10 average.
