@@ -26,3 +26,8 @@ I'll start nice enough, since few can honestly believe this is going to end with
 As I sit here trying to think of more things to write to show how well meteor works, I keep hitting a wall. I keep wanting to give it small compliments but whenever I try, I realize that the compliments are misplaced. All of the benefits of Javascript are because of Javascript. Autoreload is nice, but i actually found it to be more inconvenient than manual compilation. The number of times I was working on a page and repeatedly saving only to go back to the console and find that compilation was backed up by 20 something changes was insane. 
 
 Furthermore anytime I want to include a script into my website I have to determine what kind of script it is. Is it a helper? Is it something else? This seems trivial and it is, but enough frameworks don't have this requirement allowing you to just write the function and call it in the page where needed. 
+
+Don't get me started on the speed. Anyone who has used meteor knows how ridiculously slow it can be. This isn't just a personal problem, meteor themselves recognized this. Rendering once the page is loaded is generally fine (if it wasn't this would be a much bigger issue) but loading a project and compilation in meteor is abysmal. I know that they are working on a new version but "working" on it doesn't make it go any faster in the short term. 
+
+## Final Verdict.
+Do I like meteor?
