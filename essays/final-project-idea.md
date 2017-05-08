@@ -10,9 +10,9 @@ labels:
 
 ### Authors: JingJie Wu, Jory Leech
 ## Overview
-A website, intended for mobile, that allows users to pay for food using their UH id on campus. Resturants who partake in this process should be able to give targetted advertisement and coupons, in exchange the resturants gain analytics about what people are buying and what kind of people are buying the product.
+A website, intended for mobile, that allows users to pay for food using their UH id on campus. Restaurants who partake in this process should be able to give targeted advertisement and coupons, in exchange the restaurants gain analytics about what people are buying and what kind of people are buying the product.
 
-## Mockup 
+## Mock up 
 
 ### A Scannable Page
 
@@ -26,27 +26,27 @@ A page that allows users to order something remotely so they can pick it up at t
 
 This page should allow users to see how much money they have available using their UH id. 
 
-### Recipts/Transactions
+### Receipts/Transactions
 
-A page that allows the user to see how much they have spent in a cerain place or on a certain day. 
+A page that allows the user to see how much they have spent in a certain place or on a certain day. 
 
 ### Coupon Page
 
 A page that allows the user to see what coupons are available to them based on their spending habits. 
 
-This  also needs a counter page for the resturants to push coupons to the users.
+This  also needs a counter page for the restaurants to push coupons to the users.
 
 ### Analytics
 
-An open database or interpreted representation of the data customized for each of the resturants that choose to partake in this service.
+An open database or interpreted representation of the data customized for each of the restaurants that choose to partake in this service.
 
 ## Use Case Ideas
 
 * A user goes to buy food from starbucks often, they use the app to pay meaning starbucks can link their common orders to their ID # leading to accurate information about what drinks students prefer.
-* A resturant wants to encourge new users to eat at their resturant, so they distribute a coupon to all students who haven't eaten their in the last year. This could possibly encourage more students to eat at a resturant.
-* User buys a lot of food and wants to start watching their weight, rather than holding on to recipts they can use the app to determine what they have eaten from the transactions.
-* A new resturant shows up on campus, all users are notified of its existence because of a coupon or advertising. 
+* A restaurant wants to encourage new users to eat at their restaurant, so they distribute a coupon to all students who haven't eaten their in the last year. This could possibly encourage more students to eat at a restaurant.
+* User buys a lot of food and wants to start watching their weight, rather than holding on to receipts they can use the app to determine what they have eaten from the transactions.
+* A new restaurant shows up on campus, all users are notified of its existence because of a coupon or advertising. 
 
 ## Beyond the Basics
 
-* A comment or review interface for the resturants.
+* A comment or review interface for the restaurants.
