@@ -41,7 +41,7 @@ I was the sole developer and resoource creator of this project.
  
  **Quick Screenshot**. This is the function used when the user presses their keyboard screenshot button. This function saves the picture to the last folder that was saved to, or the default folder .
  
- #Screenshots
+ <h2> Screenshots </h2> 
  All taken with the application.
 <img class="ui image" src="../images/screeny2.png">
 <img class="ui medium image" src="../images/Screeny1.png">
