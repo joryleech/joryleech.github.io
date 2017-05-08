@@ -45,11 +45,11 @@ I was the sole developer and resource creator of this project.
   **Search By Hashtag and User.** By clicking on any of the hashtags, the user could view all of the messages that have a certain hashtag. By clicking any of the users names you could accomplish the same thing but by that user. 
   
   
-#### Video
+## Video
 
 <iframe  title="YouTube video player" width="960" height="600" src="https://www.youtube.com/embed/UiU5jrE6dew" frameborder="0" allowfullscreen></iframe>
 
-#### Screenshots
+## Screenshots
 <img class="ui large rounded image center floated" src="../images/twonker1.png">
 
 

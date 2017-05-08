@@ -39,7 +39,8 @@ I was the sole developer and resoource creator of this project.
  
  **Screenshot**. This function allows the user to take a screenshot of the current screen. When this option is selected from the UI, the user will select the folder where the application will save the picture. 
  
- **Quick Screenshot**. This is the function used when the user presses their keyboard screenshot button. This function saves the picture to the last folder that was saved to, or the default /%user%/Pictures/Screenshots
+ **Quick Screenshot**. This is the function used when the user presses their keyboard screenshot button. This function saves the picture to the last folder that was saved to, or the default /%user%/Pictures/Screenshots .
+ 
  
  ## Screenshot
  
