@@ -11,14 +11,29 @@ labels:
 summary: Developed a utility/replacement for the Windows screenshot feature. 
 ---
 
-<div class="ui large rounded images">
+
+##Project Goal
+Screeny was created to give windows users a screenshot functionality similiar to that of what mac users have. By default the windows screenshot utility only places the screenshot in the clipboard. Windows also has the snipping tool available. Both of these options require the user to open up another window **each** time the user wants to take a screenshot. I found this to be unusable in any high speed interactions. 
+
+##Skills Used
+The main resources used were:
+* Java
+* [JNativeHook](https://github.com/kwhat/jnativehook)
+
+## Personal Involvement
+I was the sole developer and resoource creator of this project. 
+
+##End Product
+ The end product was capable of taking screenshots and placing them into any specified folder. 
+ ####Features
+ **Keyboard Hook**. This keyboard hook was arguably the most difficult part of this project. This was required since, by itself, java does not allow for users to intake user input if the window is not focused. This is because it can generally be considered a security hazard.
+ 
+ **User Interface**. This small user interface allows the user to select between two options. This was a necessity as the keyboard hook only observes a single key.
+ 
+ **Screenshot**. This function allows the user to take a screenshot of the current screen. When this option is selected from the UI, the user will select the folder where the application will save the picture. 
+ 
+ **Quick Screenshot**. This is the function used when the user presses their keyboard screenshot button. This function saves the picture to the last folder that was saved to, or the default /%user%/Pictures/Screenshots
+ ##Screenshot
+ All taken with the application.
   <img class="ui image" src="../images/screeny2.png">
-</div>
 <img class="ui medium image" style="float:right;" src="../images/Screeny1.png">
-Screeny is a utility designed to replace the Windows screenshot feature. This application was inspired by the macintosh screenshot utility, however it was desired to be less obtrusive. The utility performs its function by hooking itself to the key events in the operating system. This was necessary due to javas restriction on acknowledging key events if the window is not focused. Upon recieving a key notification from the print screen key, the program saves a picture of the current screen to a user determined file.
-
-For this project, I was the sole developer and programmer. I was responsible for programming the entirety of the functionality, except for the keyboard hook. The keyboard hook was implemented as a library and developed by khwat on github. I personally developed the UI and screenshot capabilities of the application. The end product is an unobturusive utility that performs its function quickly.
-
-More information on JNativeHook can be found: [Here](https://github.com/kwhat/jnativehook).
-
-
