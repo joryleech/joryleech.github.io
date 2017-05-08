@@ -30,7 +30,8 @@ I was the sole developer and resoource creator of this project.
  The end product was capable of taking screenshots and placing them into any specified folder. 
  
  
- ### Features
+ 
+  ## **_Features_**
  
  **Keyboard Hook**. This keyboard hook was arguably the most difficult part of this project. This was required since, by itself, java does not allow for users to intake user input if the window is not focused. This is because it can generally be considered a security hazard.
  
