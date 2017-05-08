@@ -12,9 +12,7 @@ labels:
   - JPages
 summary: A recreation of Twitter, using the Derby database and JPages.
 ---
-
-
-# Twonker
+<img class="ui large rounded image center floated" src="../images/twonker1.png">
 
 ## Project Goal
 The goal of the "Twonker" project was to emulate some of the functionality of the website <a href="http://www.twitter.com/">Twitter.com</a>. 
