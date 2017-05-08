@@ -6,10 +6,10 @@ title: Tabletop Manoa
 permalink: projects/TabletopManoa
 date: 2017
 labels:
-  - Graphical
-  - Engine
-  - SDL
-  - C++
+  - Web Development
+  - Meteor
+  - Mongo
+  - Javascript
 summary: A website for connecting tabletop game players to one another.  
 ---
 
