@@ -16,7 +16,7 @@ summary: A recreation of Twitter, using the Derby database and JPages.
 
 ## Project Goal
 The goal of the "Twonker" project was to emulate some of the functionality of the website <a href="http://www.twitter.com/">Twitter.com</a>. 
-The project was back end focussed, with front end acting as a high fidelity prototype. The main goal of this project was to gain a functional understanding of SQL based databases, with a side goal to gain a better understanding of real life website development and management. Some emphasis was also put on utalizing the database to it's greatest extent. This includes using its atomic properties. 
+The project was back end focused, with front end acting as a high fidelity prototype. The main goal of this project was to gain a functional understanding of SQL based databases, with a side goal to gain a better understanding of real life website development and management. Some emphasis was also put on utilizing the database to it's greatest extent. This includes using its atomic properties. 
 
 
 ## Skills Used
@@ -36,11 +36,11 @@ I was the sole developer and resource creator of this project.
   
   **Log In**. The log in system worked primarily by creating and reading entries in a single user table. The schema of the table was set up to contain only two elements: UserID and Password. The UserID was a unique integer that was generated randomly during the entries creation. This was to ensure there would be fewer collisions in the database. If the number was taken, it would be re-generated. The number was randomized, because if it wasn't collisions could reoccur in sequence. 
   
-  **"Twonks" (I.E. Tweets).** Twonks were implmented as another seperate table. These twonks were stored with the content of their message, the date the message was created a unique id generated in the same way as the user id, and the user who created it. 
+  **"Twonks" (I.E. Tweets).** Twonks were implemented as another separate table. These twonks were stored with the content of their message, the date the message was created a unique id generated in the same way as the user id, and the user who created it. 
 
   **Hashtags**. These hashtags were created by parsing the string entered for any word that starts with the '#' character. One creation if one or more of these words was found, an entry would be created in a hashtag table. These entries contained the name of the hashtag, and the unique post ID to link them. This table was indexed by the hashtag. While this took more space, this was important to allow fast searching by these hashtags.
   
-  **Feed.** A feed, in which all messages made are shown, these messages are seperated into pages, and are sorted by date made. This was considered important to allow the user to see the latest messages.
+  **Feed.** A feed, in which all messages made are shown, these messages are separated into pages, and are sorted by date made. This was considered important to allow the user to see the latest messages.
   
   **Search By Hashtag and User.** By clicking on any of the hashtags, the user could view all of the messages that have a certain hashtag. By clicking any of the users names you could accomplish the same thing but by that user. 
   

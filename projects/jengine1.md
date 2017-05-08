@@ -13,7 +13,7 @@ labels:
 summary: Graphical engine/wrapper designed to make game creation easy.  
 ---
 
-JEngine was a wrapper I began desinging in highschool to make game development easy, on top of some convoluted graphical proccessing as designed by Java. The engine was designed focussed on Entities, in an Object Oriented Fashion. Each image, primitave shape, text, and input was treated as an Entity. 
+JEngine was a wrapper I began designing in high school to make game development easy, on top of some convoluted graphical processing as designed by Java. The engine was designed focused on Entities, in an Object Oriented Fashion. Each image, primitive shape, text, and input was treated as an Entity. 
 
 For the original beta of this project I lead a small team of three people, and acted as the team lead and lead programmer. This version was scrapped due to underlying issues in program structure. 
  
@@ -29,7 +29,7 @@ Toaster Shmup:
    
 <img class="ui image medium" src="/images/JEngineExample2.png">
 
-Arena Zombie Shoter
+Arena Zombie Shooter
 
 <img class="ui image medium" src="/images/JEngineSample3.png">
 

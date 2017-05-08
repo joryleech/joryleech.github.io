@@ -14,7 +14,7 @@ summary: Developed a utility/replacement for the Windows screenshot feature.
 
 ## Project Goal
 
-Screeny was created to give windows users a screenshot functionality similiar to that of what mac users have. By default the windows screenshot utility only places the screenshot in the clipboard. Windows also has the snipping tool available. Both of these options require the user to open up another window **each** time the user wants to take a screenshot. I found this to be unusable in any high speed interactions. 
+Screeny was created to give windows users a screenshot functionality similar to that of what mac users have. By default the windows screenshot utility only places the screenshot in the clipboard. Windows also has the snipping tool available. Both of these options require the user to open up another window **each** time the user wants to take a screenshot. I found this to be unusable in any high speed interactions. 
 
 ## Skills Used
 
@@ -23,7 +23,7 @@ The main resources used were:
 * [JNativeHook](https://github.com/kwhat/jnativehook)
 
 ## Personal Involvement
-I was the sole developer and resoource creator of this project. 
+I was the sole developer and resource creator of this project. 
 
 ## End Product
 
