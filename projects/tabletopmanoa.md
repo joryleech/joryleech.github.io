@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jengine2.png
+image: images/tabletopmanoaicon.png
 title: Tabletop Manoa
 permalink: projects/JEngine2
 date: 2017
