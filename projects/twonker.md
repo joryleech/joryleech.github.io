@@ -32,7 +32,7 @@ I was the sole developer and resource creator of this project.
 ## End Product
   The end product was a functional website, which implemented many of the features prevelant in twitter. 
  
-  #### Features
+  ### Features
   
   **Log In**. The log in system worked primarily by creating and reading entries in a single user table. The schema of the table was set up to contain only two elements: UserID and Password. The UserID was a unique integer that was generated randomly during the entries creation. This was to ensure there would be fewer collisions in the database. If the number was taken, it would be re-generated. The number was randomized, because if it wasn't collisions could reoccur in sequence. 
   
