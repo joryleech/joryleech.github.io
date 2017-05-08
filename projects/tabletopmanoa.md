@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/tabletopmanoaicon.png
 title: Tabletop Manoa
-permalink: projects/JEngine2
+permalink: projects/TabletopManoa
 date: 2017
 labels:
   - Graphical
@@ -21,7 +21,7 @@ summary: A website for connecting tabletop game players to one another.
 
 The main resources used were:
 * Javascript
-* IntelliJ
+* Intellij
 * Semantic UI
 * Meteor
 * MongoDB
