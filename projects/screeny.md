@@ -31,7 +31,7 @@ I was the sole developer and resoource creator of this project.
  
  
  
-  ## **_Features_**
+ <h3> Features </h3>
  
  **Keyboard Hook**. This keyboard hook was arguably the most difficult part of this project. This was required since, by itself, java does not allow for users to intake user input if the window is not focused. This is because it can generally be considered a security hazard.
  
