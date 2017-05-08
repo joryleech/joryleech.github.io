@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jengine2.png
+image: images/jengine2.png 
 title: JEngine 2.0.0
 permalink: projects/JEngine2
 date: 2017-5-7
