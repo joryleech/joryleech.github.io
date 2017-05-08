@@ -4,7 +4,7 @@ type: project
 image: images/JEngineIcon.png
 title: JEngine 2.0.0
 permalink: projects/JEngine2
-date: 2017
+date: 2017-5-7
 labels:
   - Graphical
   - Engine
