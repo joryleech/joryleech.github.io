@@ -41,11 +41,14 @@ The end product was a website that could be deployed for the Tabletop Club at Un
 
 ### Features
   
- <img class="" style="float:right;max-width:200px;" src="../images/tabletopLogIn.png">
+ <a href="../images/tabletopLogIn.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopLogIn.png"></a>
  
   **CAS Log In.** The UH Manoa log in system was implemented into the application as a secure way to handle personal data, as well as force a restriction on users. This by itself creates a safe environment where users can be certain that people are who they say they are and be held accountable.
   
-  
-  **Personalized User Page**
+  **Personalized User Page.** The personalized user page allows the users to see and edit the games they have made or are part of. This can make scheduling around peoples games, or even finding information way easier.
 
- 
+  **A Reactive Add Page.** This page allows users to crate their own games and also changes depending on what information they input. This usually means restricting options. This creates a system where users won't input the incorrect option. While this might seem like a negative, it is considered a useful tool in the field of HCI. 
+  
+   <a href="../images/tabletopLogIn.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
+  
+  **Calender.** This calender lets users sort the games by date, and allow them to visually see what is coming up, in a way that is familiar to them. 
