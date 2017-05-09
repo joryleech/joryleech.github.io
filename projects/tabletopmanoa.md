@@ -36,7 +36,16 @@ I worked along side Virginia Koday and Kevin Nakamura to create the Tabletop Man
 
 All members of the team were responsible for maintaining functionality between pages and assisting with others work when necessary.
 
-## Current State
+## End Product
+The end product was a website that could be deployed for the Tabletop Club at University of Hawaii at Manoa, or could easily be changed to work for any university. 
 
+### Features
+  
+ <img class="" style="float:right;max-width:200px;" src="../images/tabletopLogIn.png">
+ 
+  **CAS Log In.** The UH Manoa log in system was implemented into the application as a secure way to handle personal data, as well as force a restriction on users. This by itself creates a safe environment where users can be certain that people are who they say they are and be held accountable.
+  
+  
+  **Personalized User Page**
 
  
