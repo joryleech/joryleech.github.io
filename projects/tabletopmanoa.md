@@ -51,4 +51,4 @@ The end product was a website that could be deployed for the Tabletop Club at Un
   
    <a href="../images/tabletopLogIn.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
   
-  **Calender.** This calender lets users sort the games by date, and allow them to visually see what is coming up, in a way that is familiar to them. 
+  **Calendar.** This calendar lets users sort the games by date, and allow them to visually see what is coming up, in a way that is familiar to them. 
