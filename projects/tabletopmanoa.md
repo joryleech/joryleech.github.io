@@ -55,10 +55,14 @@ The end product was a website that could be deployed for the Tabletop Club at Un
   
   **Detailed Information Page.** This page gives users a detailed explanation of what that game will entail. 
   
- ##Screenshots
+  **Reactive Browsing/Searching.** The browse page can automatically react to how the user wants to sort the games. This means that without reloading the page, 
+ 
+ ## Screenshots
  
   <a href="../images/tabletopLogIn.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopLogIn.png"></a>
   
    <a href="../images/tabletopmanoacal.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
   
    <a href="../images/tabletopManoa/browsePage.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopManoa/browsePage.png"></a>
+   
+   <a href="../images/tabletopManoa/addPage.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopManoa/addPage.png"></a>
