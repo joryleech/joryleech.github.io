@@ -32,7 +32,7 @@ The main resources used were:
 * MongoDB
 
 ## Personal Involvement
-I worked along side Virginia Koday and Kevin Nakamura to create the Tabletop Manoa Website. Along with the initial idea, I was in charge of creating the browse page, the user page, and redesigning the visuals of the page. 
+I worked along side Virginia Koday and Kevin Kawamura to create the Tabletop Manoa Website. Along with the initial idea, I was in charge of creating the browse page, the user page, and redesigning the visuals of the page. 
 
 All members of the team were responsible for maintaining functionality between pages and assisting with others work when necessary.
 
@@ -49,6 +49,8 @@ The end product was a website that could be deployed for the Tabletop Club at Un
 
   **A Reactive Add Page.** This page allows users to crate their own games and also changes depending on what information they input. This usually means restricting options. This creates a system where users won't input the incorrect option. While this might seem like a negative, it is considered a useful tool in the field of HCI. 
   
-   <a href="../images/tabletopLogIn.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
+   <a href="../images/tabletopmanoacal.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
   
   **Calendar.** This calendar lets users sort the games by date, and allow them to visually see what is coming up, in a way that is familiar to them. 
+  
+  **Detailed Information Page.** This page gives users a detailed explanation of what that game will entail. 
