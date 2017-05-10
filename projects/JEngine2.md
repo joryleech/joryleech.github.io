@@ -35,7 +35,7 @@ The main resources used were:
  
   **Entity Based**. All images, rectangles, text, or other things that might need to be rendered are considered Entities. This entity class gives each object a position, scale, and several other functions that can be used across any of the subclasses.
 
-  <img class="" style="float:right;max-width:200px;" src="../images/jengine2/rectprim.png">
+  <img class="" style="float:right;max-width:75px;" src="../images/jengine2/rectprim.png">
 
   **Geometry Rendering**. This allows the user to render simple geometry. The back end of this is actually 3D OpenGl. This allows the application to take full control of Hardware accelerated floating point calculations offered by any GPU.
   
