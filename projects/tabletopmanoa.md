@@ -37,6 +37,7 @@ I worked along side Virginia Koday and Kevin Kawamura to create the Tabletop Man
 All members of the team were responsible for maintaining functionality between pages and assisting with others work when necessary.
 
 ## End Product
+
 The end product was a website that could be deployed for the Tabletop Club at University of Hawaii at Manoa, or could easily be changed to work for any university. 
 
 ### Features
@@ -56,13 +57,13 @@ The end product was a website that could be deployed for the Tabletop Club at Un
   **Detailed Information Page.** This page gives users a detailed explanation of what that game will entail. 
   
   **Reactive Browsing/Searching.** The browse page can automatically react to how the user wants to sort the games. This means that without reloading the page, 
- 
- ## Screenshots
- 
-  <a href="../images/tabletopLogIn.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopLogIn.png"></a>
   
-   <a href="../images/tabletopmanoacal.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
+## Screenshots
+ 
+<a href="../images/tabletopLogIn.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopLogIn.png"></a>
   
-   <a href="../images/tabletopManoa/browsePage.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopManoa/browsePage.png"></a>
+<a href="../images/tabletopmanoacal.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
+  
+<a href="../images/tabletopManoa/browsePage.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopManoa/browsePage.png"></a>
    
-   <a href="../images/tabletopManoa/addPage.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopManoa/addPage.png"></a>
+<a href="../images/tabletopManoa/addPage.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopManoa/addPage.png"></a>
