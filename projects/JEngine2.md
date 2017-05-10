@@ -49,7 +49,10 @@ The main resources used were:
   
   **Basic Bounding Box Hardbody Physics** A simple calculation to force hard bodies away from each other, this allows a basic collision to stop and push back other objects so that they can not pass. 
   
-  **Multiple Render Surfaces**. This function allows the user to render onto another surface, besides the generic window surface. This function can be used to:
+  
+<img class="" style="float:right;max-width:200px;" src="../images/jengine2/multiplerendersurf.png">
+  
+  **Multiple Render Surfaces**. This function allows the user to render onto another surface, besides the generic window surface. This function can be used to: 
   * Clip Images
   * Create a  layered effect for images
   * Offer the user multiple distinct windows.
