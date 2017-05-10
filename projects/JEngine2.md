@@ -35,7 +35,11 @@ The main resources used were:
  
   **Entity Based**. All images, rectangles, text, or other things that might need to be rendered are considered Entities. This entity class gives each object a position, scale, and several other functions that can be used across any of the subclasses.
 
+  <img class="" style="float:right;max-width:100px;" src="../images/jengine2/rectprim.png">
+
   **Geometry Rendering**. This allows the user to render simple geometry. The back end of this is actually 3D OpenGl. This allows the application to take full control of Hardware accelerated floating point calculations offered by any GPU.
+  
+  <img class="" style="float:right;max-width:100px;" src="../images/jengine2/spriterender.png">
   
   **Image Rendering**. This allows the developer to render images to the any render surface. This should take care of importing any images, and rendering them to the screen. This is handled as an OpenGL texture and a 3d plane, to once again take advantage of Hardware acceleration.
   
@@ -50,7 +54,7 @@ The main resources used were:
   **Basic Bounding Box Hardbody Physics** A simple calculation to force hard bodies away from each other, this allows a basic collision to stop and push back other objects so that they can not pass. 
   
   
-<img class="" style="float:right;max-width:200px;" src="../images/jengine2/multiplerendersurf.png">
+<img class="" style="float:right;max-width:100px;" src="../images/jengine2/multiplerendersurf.png">
   
   **Multiple Render Surfaces**. This function allows the user to render onto another surface, besides the generic window surface. This function can be used to: 
   * Clip Images
