@@ -60,10 +60,10 @@ The end product was a website that could be deployed for the Tabletop Club at Un
   
 ## Screenshots
  
-<a href="../images/tabletopLogIn.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopLogIn.png"></a>
+<a href="../images/tabletopLogIn.png"><img class="" style="margin-left:auto;margin-right:auto;max-width:200px;" src="../images/tabletopLogIn.png"></a>
   
-<a href="../images/tabletopmanoacal.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
+<a href="../images/tabletopmanoacal.png"><img class="" style="margin-left:auto;margin-right:auto;max-width:200px;" src="../images/tabletopmanoacal.png"></a>
   
-<a href="../images/tabletopManoa/browsePage.png"><img class="" style="float:right;max-width:200px;" src="../images/tabletopManoa/browsePage.png"></a>
+<a href="../images/tabletopManoa/browsePage.png"><img class="" style="margin-left:auto;margin-right:auto;max-width:200px;" src="../images/tabletopManoa/browsePage.png"></a>
    
-<a href="../images/tabletopManoa/addPage.png"><img class="" style="max-width:200px;" src="../images/tabletopManoa/addPage.png"></a>
+<a href="../images/tabletopManoa/addPage.png"><img class="" style="margin-left:auto;margin-right:auto;  max-width:200px;" src="../images/tabletopManoa/addPage.png"></a>
