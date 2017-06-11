@@ -10,7 +10,7 @@ labels:
   - C#
   - A*
   - Game Development
-summary: Integration of Pathfinding for Unity 2d:
+summary: Integration of Pathfinding for Unity 2d
 ---
 
 ## Project Goal
