@@ -13,6 +13,8 @@ labels:
 summary: Integration of Pathfinding for Unity 2d
 ---
 
+[This project is available on GitHub!](https://github.com/joryleech/Unity-2D-Grid-Pathfinding/tree/master)
+
 ## Project Goal
 This project was developed to fill a gap that existed in Unity 2D's capabilities. Unity 3D has options that allow the user to easily place NavMesh in the game that allows entities to navigate it. This fills the same capabilities but in the 2D setting.
 
