@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pathfinding/pathfindingLogo.png
+image: images/pathfindingLogo.png
 title: Unity 2D: Pathfinding
 permalink: projects/twonker
 date: 2016
@@ -39,12 +39,8 @@ I was the sole developer and resource creator of this project.
 
   **Coroutines** (Optional). This allows the user to run the algorithm in a limited way, such that it may take longer than one frame to create the path, without expending aditional frame time. This cuts down on the effect of the algorithm to frame rate and is making it almost unnoticable asside from creating the coroutines.
 
-  
-## Video
-
-<iframe  title="YouTube video player" width="960" height="600" src="https://www.youtube.com/embed/UiU5jrE6dew" frameborder="0" allowfullscreen></iframe>
 
 ## Screenshots
-<img class="ui large rounded image center floated" src="../images/twonker1.png">
+<img class="ui large rounded image center floated" src="../images/PathfindingExample1.png">
 
 
