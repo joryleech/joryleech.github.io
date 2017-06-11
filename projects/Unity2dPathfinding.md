@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/pathfindingLogo.png
-title: Unity 2D: Pathfinding
+title: Unity 2D Pathfinding
 permalink: projects/twonker
 date: 2016
 labels:
