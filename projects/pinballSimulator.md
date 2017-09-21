@@ -4,7 +4,7 @@ type: project
 image: images/tabletopmanoaicon.png
 title: Pinball Simulator
 permalink: projects/pinballSimulator
-date: September 2017
+date: 2017
 labels:
   - Unity
   - C Sharp
