@@ -10,7 +10,7 @@ labels:
   - Unity
   - Blender
   - C++
-summary: A platformer Dating Sim about children and ghosts.  
+summary: A Platformer/Friendship-Sim about a Child Stuck in the Spirit World
 ---
 
 [This project has an Official Page Here](http://hibernationstudios.x10host.com/)
