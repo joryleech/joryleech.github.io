@@ -12,15 +12,12 @@ labels:
 summary: A Unity game about pinball but you play as the hand.
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/irdsgPDSR1s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/irdsgPDSR1s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center
 
 ## Project Goal
-  Tabletop Manoa was designed to be a website for University of Manoa students to find groups who play tabletop games. 
-  The initial idea was proposed to create a safe and more restricted environment where college students can be assured that the other players are all students. 
-  
-  Along with safety the application was designed to solve many of the issues that come with planning and coordinating a game. 
-  The website allows for users to find games that match their preferred systems or schedules, without having to rearrange their game for everyone.
-  
+Pinball Simulator was designed to be a new take on Pinball Games using similar controls to other "simulator" games. 
+The game was designed and built in two weeks by a small team of one programmer and one artist, given only the concept "Pinball".
+Pinball Simulator attempts to spin the idea of pinball not only in its "Rage Game" esque hand, but also in the many features that unlock while the game is played including: Throwing Knives, beaking the board, and altering the board by grabbing and replacing bumpers. 
 
 ## Skills Used
 
@@ -33,15 +30,14 @@ The main resources used were:
 
 ## Personal Involvement
 
-## End Product
+I was the sole programmer on this project and as such I was responsible for developing the hand movement, the grabbing mechanics, and the mechanics for all interactable objects. 
+
+As well as programming, I also performed the sound design, and modeling for the board, kni
 
 ### Features
 
   **Prop Grabbing** Props can be dynamically moved as if by grabbing with an actual hand. 
+   
+  **Breakable Board** After scoring enough points the player unlocks the hammer, which can be used to break open the glass of the board. 
   
-## Screenshots
- 
-<a href="../images/tabletopLogIn.png"><img class="" style="max-width:200px;" src="../images/tabletopLogIn.png"></a>
-<a href="../images/tabletopmanoacal.png"><img class="" style="max-width:200px;" src="../images/tabletopmanoacal.png"></a>
-<a href="../images/tabletopManoa/browsePage.png"><img class="" style="max-width:200px;" src="../images/tabletopManoa/browsePage.png"></a>
-<a href="../images/tabletopManoa/addPage.png"><img class="" style="max-width:200px;" src="../images/tabletopManoa/addPage.png"></a>
+  **Replacing Board Pieces** After scoring enough points players who have broken the glass may take pieces out of the board and snap other peices variously into any of the open sockets around the board. 
