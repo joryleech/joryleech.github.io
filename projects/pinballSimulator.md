@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tabletopmanoaicon.png
+image: images/PinballSimulatorIcon.png
 title: Pinball Simulator
 permalink: projects/pinballSimulator
 date: 2017
