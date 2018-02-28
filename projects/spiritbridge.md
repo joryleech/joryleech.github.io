@@ -4,7 +4,7 @@ type: project
 image: images/jengine2.png
 title: JEngine 2.0.0
 permalink: projects/SpiritBridge
-date: 2017-12-12
+date: 20171212
 labels:
   - Game
   - Unity
