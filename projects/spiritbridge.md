@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jengine2.png
+image: images/SpiritBridgeIcon.png
 title: Spirit Bridge
 permalink: projects/SpiritBridge
 date: 20171212
