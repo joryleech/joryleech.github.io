@@ -51,7 +51,7 @@ I also create the 3d Mesh for the town using blender, and it was textured by the
 ### The UI
   
 
-  <img class="" style="float:left;max-width:200px;" src="../images/SB-SentanceControllerExample.png">
+  <img class="" style="float:left;max-width:200px;" src="../images/SB-HoldingAreaExample.png">
   
   The UI was structured by hand to try and follow the conventions of normal dating sim conversation areas. This part is mostly trial and error to get everything right, but the heirchy used can give you an idea of the aspects that were needed. 
   The main conversation object holds all of the scripts that are necessary to run the conversation. The eventsystem is required for input to work. In our game the left character and the right character were two separate object, but I would recommend another empty object with ~5 characters to fit each situation. These can be moved and manipulated by the scripting later on. 
