@@ -49,7 +49,6 @@ I also create the 3d Mesh for the town using blender, and it was textured by the
   3. The Background and Bridge Code
   
 ### The UI
-  
 
   <img class="" style="float:left;max-width:200px;" src="../images/SB-HoldingAreaExample.png">
   
@@ -70,15 +69,9 @@ Each sentence connects to another sentence, normal sentences connect to one, whi
 
  The scripts should be so that anything that can be different in any screen should be changeable through these sentence scripts. 
 
-**Entity Based**. All images, rectangles, text, or other things that might need to be rendered are considered Entities. This entity class gives each object a position, scale, and several other functions that can be used across any of the subclasses.
+### The Bridge Script
 
-
-  **Geometry Rendering**. This allows the user to render simple geometry. The back end of this is actually 3D OpenGl. This allows the application to take full control of Hardware accelerated floating point calculations offered by any GPU.
-  
-  <img class="" style="float:right;max-width:200px;" src="../images/jengine2/spriterender.png">
-  
-  **Image Rendering**. This allows the developer to render images to the any render surface. This should take care of importing any images, and rendering them to the screen. This is handled as an OpenGL texture and a 3d plane, to once again take advantage of Hardware acceleration.
-
+Or as I called it the conversation controller. Each conversation has exactly one of these, this script is intended to perform all operations that should effect the input and output. It controls which area is currently active, as well as displaying each sentence and how to respond to changing the sentence. 
   
   
 <img class="" style="float:right;max-width:300px;" src="../images/jengine2/multiplerendersurf.png">
