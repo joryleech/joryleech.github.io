@@ -15,7 +15,7 @@ summary: A platformer Dating Sim about children and ghosts.
 
 [This project has an Official Page Here](http://hibernationstudios.x10host.com/)
 
-<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/-0131KbrKWc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><center>
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/-0131KbrKWc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
   
 ## Project Goal
 
