@@ -12,7 +12,7 @@ labels:
 summary: A Unity game about pinball but you play as the hand.
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/irdsgPDSR1s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/irdsgPDSR1s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 ## Project Goal
 Pinball Simulator was designed to be a new take on Pinball Games using similar controls to other "simulator" games. 
