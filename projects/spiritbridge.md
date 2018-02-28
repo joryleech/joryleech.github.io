@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/jengine2.png
-title: JEngine 2.0.0
+title: Spirit Bridge
 permalink: projects/SpiritBridge
 date: 20171212
 labels:
@@ -14,6 +14,9 @@ summary: A platformer Dating Sim about children and ghosts.
 ---
 
 [This project has an Official Page Here](http://hibernationstudios.x10host.com/)
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/-0131KbrKWc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><center>
+  
 ## Project Goal
 
 The goal of this project was to iterate on the previous version of JEngine, while also reaping the benefits of controlled memory system.
@@ -26,12 +29,16 @@ These two issues forced the entity cap to hover around 14000 on my current hardw
 The main resources used were:
 * Unity 
 * C#
+* Audacity
+* Blender
 
 ## Personal Involvement
 
 I was the lead programmer in charge of a team of one other programmer, and 3 artists. As a team lead I was responsible for scheduling members, maintaining expectations, and bridging the gap of understanding between artists and programmers.
 
 As a developer I was in charge of: The character controller, the dialog system, converting stories from the artists to the program, and maintaining our source code control. 
+
+I also create the 3d Mesh for the town using blender, and it was textured by the art students. 
 
 ## Dialog System. 
  
@@ -44,16 +51,7 @@ As a developer I was in charge of: The character controller, the dialog system, 
   <img class="" style="float:right;max-width:200px;" src="../images/jengine2/spriterender.png">
   
   **Image Rendering**. This allows the developer to render images to the any render surface. This should take care of importing any images, and rendering them to the screen. This is handled as an OpenGL texture and a 3d plane, to once again take advantage of Hardware acceleration.
-  
-  **Image Dependence**. This is a memory saving function that is done automatically that allows the user to duplicate an image multiple times without taking more memory to re-import it. This allows the entity cap for images to climb significantly. 
-  
-  **Time Dependant Calculations**. These allow users to calculate the state of the world independantly of the frame rate. This can be very beneficial for games that might have fluctuating frame rates. They are generally more processor intensive, but are currently in style for computer games.
-  
-  **Frame Dependant Calculations**. The counterpart to time dependant calculations. These instead calculate the state of the game world each frame that passes, with no difference.
-  
-  **Bounding Box Collision**. This allows users to check for collision between any two squares. It was simplified to allow the developer to just initialize it with an element. 
-  
-  **Basic Bounding Box Hardbody Physics** A simple calculation to force hard bodies away from each other, this allows a basic collision to stop and push back other objects so that they can not pass. 
+
   
   
 <img class="" style="float:right;max-width:300px;" src="../images/jengine2/multiplerendersurf.png">
@@ -65,6 +63,7 @@ As a developer I was in charge of: The character controller, the dialog system, 
   
   **Input Manager**. This input manager gives the user access to any of the inputs from the user that they requrst during any part of the application. This was designed to solve a common problem in input managment, that causes information to be lost once it is collected, or that restricts input dependant actions to take place in a single function.
    
+## Screenshots
 
-## Features In Development
-  **Rendered Text**. This will allow the users to render text, by treating it as a string rather than an image. From a player perspective this has no effect, but from a developer perspective it streamlines any text dependant development.
+
+## Art
