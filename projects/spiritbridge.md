@@ -59,7 +59,9 @@ Most of the other objects mentioned are just images, that should be anchored aro
 
 ### The Sentance Structure
 
-I decided to go for a node based system for the conversations, if you are familiar with linked lists it is similar to that. Each time text appears on the screen it is referred to as a "Sentance", with a sentance class that exists and several other classes that extend it. This includes different sentence types for regular sentences and each type of question.
+<img class="" style="float:right;max-width:75px;" src="../images/SB-SentanceControllerExample.png">
+  
+I decided to go for a **node based system** for the conversations, if you are familiar with linked lists it is similar to that. Each time text appears on the screen it is referred to as a "Sentance", with a sentance class that exists and several other classes that extend it. This includes different sentence types for regular sentences and each type of question.
 
 Each sentence connects to another sentence, normal sentences connect to one, while questions connect to multiple. This allows the user to create scripts in trees, that can be easily converted to this system. 
 
@@ -67,7 +69,6 @@ Each sentence connects to another sentence, normal sentences connect to one, whi
 
 **Entity Based**. All images, rectangles, text, or other things that might need to be rendered are considered Entities. This entity class gives each object a position, scale, and several other functions that can be used across any of the subclasses.
 
-  <img class="" style="float:right;max-width:75px;" src="../images/jengine2/rectprim.png">
 
   **Geometry Rendering**. This allows the user to render simple geometry. The back end of this is actually 3D OpenGl. This allows the application to take full control of Hardware accelerated floating point calculations offered by any GPU.
   
