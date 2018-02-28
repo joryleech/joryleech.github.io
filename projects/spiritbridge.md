@@ -41,7 +41,14 @@ As a developer I was in charge of: The character controller, the dialog system, 
 I also create the 3d Mesh for the town using blender, and it was textured by the art students. 
 
 ## Dialog System. 
- 
+
+  The dialog system was designed to be modular, and can be seperated into three seperate segments. 
+  
+  1. The UI.
+  2. The Sentance Structure
+  3. The Background and Bridge Code
+  
+  ### The UI
   **Entity Based**. All images, rectangles, text, or other things that might need to be rendered are considered Entities. This entity class gives each object a position, scale, and several other functions that can be used across any of the subclasses.
 
   <img class="" style="float:right;max-width:75px;" src="../images/jengine2/rectprim.png">
