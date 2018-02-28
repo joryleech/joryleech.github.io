@@ -48,7 +48,7 @@ I also create the 3d Mesh for the town using blender, and it was textured by the
   2. The Sentance Structure
   3. The Background and Bridge Code
   
-  ### The UI
+### The UI
   
   The UI was structured by hand to try and follow the conventions of normal dating sim conversation areas. This part is mostly trial and error to get everything right, but the heirchy used can give you an idea of the aspects that were needed. 
   The main conversation object holds all of the scripts that are necessary to run the conversation. The eventsystem is required for input to work. In our game the left character and the right character were two separate object, but I would recommend another empty object with ~5 characters to fit each situation. These can be moved and manipulated by the scripting later on. 
@@ -57,7 +57,7 @@ The conversation holding area holds each sentence which will be described in the
 Each object that ends in the name area {conversationArea, 2QuestionArea, etc...} are the different types of inputs or outputs that are available for the conversation. The "conversationArea" is used for normal sentences where the objects inside are a text object, and an image for a moving arrow. The question areas work similarly with Unity UI buttons instead of just text.
 Most of the other objects mentioned are just images, that should be anchored around the entirety of the screen so that they stretch correctly, or to the bottom of the screen if you would like them to not stretch.
 
-  ### The Sentance Structure
+### The Sentance Structure
 
 I decided to go for a node based system for the conversations, if you are familiar with linked lists it is similar to that. Each time text appears on the screen it is referred to as a "Sentance", with a sentance class that exists and several other classes that extend it. This includes different sentence types for regular sentences and each type of question.
 
