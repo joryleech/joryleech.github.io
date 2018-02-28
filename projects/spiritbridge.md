@@ -59,7 +59,7 @@ Most of the other objects mentioned are just images, that should be anchored aro
 
 ### The Sentance Structure
 
-<img class="" style="float:right;max-width:75px;" src="../images/SB-SentanceControllerExample.png">
+<img class="" style="float:right;" src="../images/SB-SentanceControllerExample.png">
   
 I decided to go for a **node based system** for the conversations, if you are familiar with linked lists it is similar to that. Each time text appears on the screen it is referred to as a "Sentance", with a sentance class that exists and several other classes that extend it. This includes different sentence types for regular sentences and each type of question.
 
