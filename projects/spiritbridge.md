@@ -73,16 +73,6 @@ Each sentence connects to another sentence, normal sentences connect to one, whi
 
 Or as I called it the conversation controller. Each conversation has exactly one of these, this script is intended to perform all operations that should effect the input and output. It controls which area is currently active, as well as displaying each sentence and how to respond to changing the sentence. 
   
-  
-<img class="" style="float:right;max-width:300px;" src="../images/jengine2/multiplerendersurf.png">
-  
-  **Multiple Render Surfaces**. This function allows the user to render onto another surface, besides the generic window surface. This function can be used to: 
-  * Clip Images
-  * Create a  layered effect for images
-  * Offer the user multiple distinct windows.
-  
-  **Input Manager**. This input manager gives the user access to any of the inputs from the user that they requrst during any part of the application. This was designed to solve a common problem in input managment, that causes information to be lost once it is collected, or that restricts input dependant actions to take place in a single function.
-   
 ## Screenshots
 
 
