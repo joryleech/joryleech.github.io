@@ -38,14 +38,12 @@ These were combined to create this initial paper prototype which was then tested
   **Current Emergency Status:** This simple line near the top of the forms, lets the user know if there is currently an emergency. This also locks certain functionality if there is no emergency (which can be overridden). This was put in place since it was later discovered that the user who made the mistake was in the belief that there was an actual emergency.
 
 ## Screenshots
+(click to enlarge)
 <a href="../images/hawaiiAlertSystem/screen1.png"><img class="" style="max-width:200px;" src="../images/hawaiiAlertSystem/screen1.png"></a>
 <a href="../images/hawaiiAlertSystem/screen2.png"><img class="" style="max-width:200px;" src="../images/hawaiiAlertSystem/screen2.png"></a>
 <a href="../images/hawaiiAlertSystem/screen3.png"><img class="" style="max-width:200px;" src="../images/hawaiiAlertSystem/screen3.png"></a>
-
 <a href="../images/hawaiiAlertSystem/screen4.png"><img class="" style="max-width:200px;" src="../images/hawaiiAlertSystem/screen4.png"></a>
-
 <a href="../images/hawaiiAlertSystem/screen5.png"><img class="" style="max-width:200px;" src="../images/hawaiiAlertSystem/screen5.png"></a>
-
 <a href="../images/hawaiiAlertSystem/screen6.png"><img class="" style="max-width:200px;" src="../images/hawaiiAlertSystem/screen6.png"></a>
 
 
