@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pathfindingLogo.png
+image: images/ShardedSystems.png
 title: Network Sharded Database
 permalink: projects/networkShardedDatabase
 date: 2018
