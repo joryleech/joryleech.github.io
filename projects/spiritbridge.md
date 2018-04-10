@@ -19,11 +19,9 @@ summary: A Platformer/Friendship-Sim about a Child Stuck in the Spirit World
   
 ## Project Goal
 
-The goal of this project was to iterate on the previous version of JEngine, while also reaping the benefits of controlled memory system.
+The goal of this project was to create a Game Demo based on Dating Sim qualities over the span of a few weeks. 
 
-The first version of JEngine was performed using Java and AWT. Because of this it became very difficult to control the memory being used in the program. This meant it was fine for smaller projects, but larger projects had issues running. Furthermore, as far as I could tell there was no hardware acceleration. 
-These two issues forced the entity cap to hover around 14000 on my current hardware. The new system boosts this to almost 10x that amount. 
-
+The team was comprised of a small group of 3 Artists and 2 Software engineers, with the original plan leaning towards a traditional dating sim experience. This transformed towards a Dating Sim 3D Platformer which the game became, including a cast of lovable ghosts, platforming challenges, individual storylines and a game about friendship in the macabre.
 ## Skills Used
 
 The main resources used were:
