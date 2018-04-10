@@ -33,5 +33,13 @@ Each member began by designing their own paper prototypes, with at least one tha
 These were combined to create this initial paper prototype which was then tested on 6 different users, along with a small survey about their experience using the prototype.
 <img class="" style="max-width:800px;" src="../images/hawaiiAlertSystem/paperPrototype.png">
 
+## Features
+  **Login/Personal Logs:** The system keeps a log of important actions performed on the system as well as who performed them and when. This is to keep accountability high.
+  **Current Emergency Status:** This simple line near the top of the forms, lets the user know if there is currently an emergency. This also locks certain functionality if there is no emergency (which can be overridden). This was put in place since it was later discovered that the user who made the mistake was in the belief that there was an actual emergency.
+
+## Screenshots
+<a href="../images/hawaiiAlertSystem/screen1.png"><img class="" style="max-width:200px;" src="../images/hawaiiAlertSystem/screen1.png"></a>
+
+
 
 
