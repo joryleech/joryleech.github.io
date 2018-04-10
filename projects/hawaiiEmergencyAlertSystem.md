@@ -29,7 +29,8 @@ I was responsible for collaborating on the redesign, as well as implimenting the
   
 ## Features
 
-## Screenshots
+## Initial Design
+
 
 
 
