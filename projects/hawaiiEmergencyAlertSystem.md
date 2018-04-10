@@ -27,9 +27,10 @@ This project was performed with a group of three software engineers, utilizing t
 ## Personal Involvement
 I was responsible for collaborating on the redesign, as well as implimenting the UI, text messaging, and login systems. 
   
-## Features
 
-## Initial Design
+## Paper Prototype
+Each member began by designing their own paper prototypes, with at least one that minimized slips and one that minimized errors.
+These were combined to create this initial paper prototype which was then tested on 6 different users, along with a small survey about their experience using the prototype.
 <img class="" style="max-width:800px;" src="../images/hawaiiAlertSystem/paperPrototype.png">
 
 
