@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ShardedSystems.png
+image: images/hawaiiAlertSystem/icon.png
 title: Hawaii Emergency Alert System Redesign (Unofficial)
 permalink: projects/hawaiiEmergencyAlertSystem
 date: 2018
