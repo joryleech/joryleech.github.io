@@ -30,7 +30,7 @@ I was responsible for collaborating on the redesign, as well as implimenting the
 ## Features
 
 ## Initial Design
-
+<img class="" style="max-width:800px;" src="../images/hawaiiAlertSystem/paperPrototype.png">
 
 
 
