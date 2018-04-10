@@ -5,7 +5,7 @@ type: project
 image: images/pathfindingLogo.png
 title: Network Sharded Database
 permalink: projects/networkShardedDatabase
-date: 20180505
+date: 2018
 labels:
   - Python
   - SQLite3
