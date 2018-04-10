@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/shardedSystems.png
+image: images/tabletopmanoaicon.png
 title: Tabletop Manoa
 permalink: projects/TabletopManoa
 date: 2017
